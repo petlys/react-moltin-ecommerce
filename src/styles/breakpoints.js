@@ -1,0 +1,18 @@
+// Media query breakpoints
+
+const SMALL_AND_BELOW = '767px'
+const MEDIUM_AND_BELOW = '991px'
+const LARGE_AND_BELOW = '1199px'
+
+const SMALL_AND_ABOVE = '768px'
+const MEDIUM_AND_ABOVE = '992px'
+const LARGE_AND_ABOVE = '1200px'
+
+export default {
+  SMALL_AND_BELOW,
+  MEDIUM_AND_BELOW,
+  LARGE_AND_BELOW,
+  SMALL_AND_ABOVE,
+  MEDIUM_AND_ABOVE,
+  LARGE_AND_ABOVE
+}
